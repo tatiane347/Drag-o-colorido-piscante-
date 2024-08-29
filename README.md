@@ -15,7 +15,7 @@ O "Dragão Colorido Piscante" é uma página web interativa que combina elemento
 
 ## Como Visualizar
 
-Para ver o dragão colorido piscante em ação, [clique aqui]([inserir_link_aqui](https://codepen.io/tatiane-nascimento/full/abgjoNE)) para acessar a página.
+Para ver o dragão colorido piscante em ação, [clique aqui]([https://codepen.io/tatiane-nascimento/full/abgjoNE]()) para acessar a página.
 
 Divirta-se e deixe sua imaginação voar com este projeto único! 🌟🔮
 ![image](https://github.com/user-attachments/assets/e011a2fd-b2fb-47e0-9b3f-9e78b4d33a71)
